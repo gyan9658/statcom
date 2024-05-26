@@ -1,0 +1,2 @@
+# statcom
+statcom placement 
